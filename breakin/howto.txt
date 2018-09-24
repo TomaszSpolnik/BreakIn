@@ -1,0 +1,51 @@
+Folder 'breakin' must be on pendrive's root directory.
+
+While booting from windows installation pendrive press:
+
+"shift + f10" or "fn + shift + f10" (opens CMD)
+
+go into directory of the pendrive (type: "d:\", "e:\", "f:\", "g:\" etc. and "dir" to confirm that 'breakin' folder is present):
+
+type:
+
+"cd breakin" (breakin is the folder that contains scripts)
+
+and type:
+
+"s1.bat" (first script)
+
+after restart into windows click on the wheelchair icon while on login screen which opens CMD and type:
+
+"s2.bat"
+
+after restart into windows log into Administrator account
+
+Do whatever you have to do (just do not modify or open anything:))
+
+click on the wheelchair icon while on login screen which opens CMD and type:
+
+"s3.bat"
+
+after restart while booting from windows installation pendrive press:
+
+"shift + f10" or "fn + shift + f10" (opens CMD)
+
+go into directory of the pendrive (type: "d:\", "e:\", "f:\", "g:\" etc. and "dir" to confirm that 'breakin' folder is present):
+
+type:
+
+"cd breakin" (breakin is the folder that contains scripts)
+
+and type:
+
+"s4.bat"
+
+Now everything is reversed.
+
+Have a good one,
+
+T.S.
+
+
+
+
